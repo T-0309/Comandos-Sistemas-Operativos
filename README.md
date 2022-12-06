@@ -1,5 +1,5 @@
 
-#•Man ps = Manual de ayuda
+#•Man ps = Manual de ayuda <br />
 #•	ctrl + c = salir de un comando	
 #•	sudo apt install = isntalar algun paquete
 #•	kill = matar proceso
